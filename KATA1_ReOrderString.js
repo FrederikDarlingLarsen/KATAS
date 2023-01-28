@@ -1,4 +1,4 @@
-//Declare function.
+ //Declare function.
 function reorder(aString){
 
    //Declare and intialize an empty string.
